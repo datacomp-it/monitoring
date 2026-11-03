@@ -1,7 +1,7 @@
 # Upptime configuration: 23 domains + 3 cloud services
 # Change owner to your GitHub login or organization name.
 # Change repo and status-website.baseUrl if your repository is not named monitoring.
-owner: TWOJ_LOGIN_GITHUB
+owner: datacomp-it
 repo: monitoring
 
 sites:
