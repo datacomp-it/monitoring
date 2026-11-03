@@ -4,6 +4,14 @@
 owner: datacomp-it
 repo: monitoring
 
+  # Additional Datacomp Cloud applications
+  - name: DataComp Cloud - Flow
+    url: https://flow.datacomp-cloud.eu/
+  - name: DataComp Cloud - Lab
+    url: https://lab.datacomp-cloud.eu/
+  - name: DataComp Cloud - Newsletter
+    url: https://newsletter.datacomp-cloud.eu/s/dashboard
+
 sites:
   - name: alibre.pl
     url: https://alibre.pl/
@@ -24,9 +32,9 @@ sites:
   - name: fluidflow.pl
     url: https://fluidflow.pl/
   - name: helpcenter.bimvision.eu
-    url: https://helpcenter.bimvision.eu/
-  - name: isaco.pl
-    url: https://isaco.pl/
+    url: https://helpcenter.bimvision.eu/  
+  - name: 4MCAD
+    url: https://4mcad.pl/
   - name: keyshot.datacomp.com.pl
     url: https://keyshot.datacomp.com.pl/
   - name: m-files.datacomp.com.pl
@@ -51,14 +59,6 @@ sites:
     url: https://wizualizacje.pro/
   - name: zelbetpro.pl
     url: https://zelbetpro.pl/
-
-  # Additional Datacomp Cloud applications
-  - name: DataComp Cloud - Flow
-    url: https://flow.datacomp-cloud.eu/
-  - name: DataComp Cloud - Lab
-    url: https://lab.datacomp-cloud.eu/
-  - name: DataComp Cloud - Newsletter
-    url: https://newsletter.datacomp-cloud.eu/s/dashboard
 
 status-website:
   name: Monitoring uslug
