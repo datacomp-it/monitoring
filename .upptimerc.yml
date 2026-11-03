@@ -1,64 +1,100 @@
-# Upptime configuration: 23 domains + 3 cloud services
-# Change owner to your GitHub login or organization name.
-# Change repo and status-website.baseUrl if your repository is not named monitoring.
+
+# Upptime configuration
+# DataComp IT - 26 monitored services
+
 owner: datacomp-it
 repo: monitoring
 
-  # Additional Datacomp Cloud applications
+sites:
+  # =====================================
+  # DATACOMP CLOUD - NAJWAZNIEJSZE USLUGI
+  # =====================================
+
   - name: DataComp Cloud - Flow
     url: https://flow.datacomp-cloud.eu/
+
   - name: DataComp Cloud - Lab
     url: https://lab.datacomp-cloud.eu/
+
   - name: DataComp Cloud - Newsletter
     url: https://newsletter.datacomp-cloud.eu/s/dashboard
 
-sites:
+  # =====================================
+  # POZOSTALE STRONY I USLUGI
+  # =====================================
+
   - name: alibre.pl
     url: https://alibre.pl/
+
   - name: bim4u.eu
     url: https://bim4u.eu/
+
   - name: bimestimate.eu
     url: https://bimestimate.eu/
+
   - name: bimvision.eu
     url: https://bimvision.eu/
+
   - name: datacomp.com.pl
     url: https://datacomp.com.pl/
+
   - name: dds-cad.pl
     url: https://dds-cad.pl/
+
   - name: ezcam.pl
     url: https://ezcam.pl/
+
   - name: ffbud.datacomp.com.pl
     url: https://ffbud.datacomp.com.pl/
+
   - name: fluidflow.pl
     url: https://fluidflow.pl/
+
   - name: helpcenter.bimvision.eu
-    url: https://helpcenter.bimvision.eu/  
+    url: https://helpcenter.bimvision.eu/
+
   - name: 4MCAD
     url: https://4mcad.pl/
+
   - name: keyshot.datacomp.com.pl
     url: https://keyshot.datacomp.com.pl/
+
   - name: m-files.datacomp.com.pl
     url: https://m-files.datacomp.com.pl/
+
   - name: outsourcing.datacomp.com.pl
     url: https://outsourcing.datacomp.com.pl/
+
   - name: projektowanie-drog.pl
     url: https://projektowanie-drog.pl/
+
   - name: projektowanie-rurociagow.pl
     url: https://projektowanie-rurociagow.pl/
+
   - name: projektowaniecad.com.pl
     url: https://projektowaniecad.com.pl/
+
   - name: propublico.pl
     url: https://propublico.pl/
+
   - name: sklep.datacomp.com.pl
     url: https://sklep.datacomp.com.pl/
+
   - name: stalowekonstrukcje.com.pl
     url: https://stalowekonstrukcje.com.pl/
+
   - name: visualmill.pl
     url: https://visualmill.pl/
+
   - name: wizualizacje.pro
     url: https://wizualizacje.pro/
+
   - name: zelbetpro.pl
     url: https://zelbetpro.pl/
+
+# =====================================
+# STATUS WEBSITE
+# =====================================
 
 status-website:
   name: Monitoring uslug
