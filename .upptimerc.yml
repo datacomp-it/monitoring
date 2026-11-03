@@ -25,6 +25,12 @@ sites:
   - name: DataComp Cloud - Newsletter
     url: https://newsletter.datacomp-cloud.eu/s/dashboard
 
+  - name: DataComp Cloud - Chatwoot
+    url: https://chat.datacomp-cloud.eu/
+
+  - name: DataComp Cloud - Watercrawl
+    url: https://wtr.datacomp-cloud.eu/
+
   # =====================================
   # POZOSTALE STRONY I USLUGI
   # =====================================
