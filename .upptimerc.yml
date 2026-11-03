@@ -5,6 +5,12 @@
 owner: datacomp-it
 repo: monitoring
 
+# Powiadomienia Telegram
+secrets:
+  - NOTIFICATION_TELEGRAM
+  - NOTIFICATION_TELEGRAM_BOT_KEY
+  - NOTIFICATION_TELEGRAM_CHAT_ID
+
 sites:
   # =====================================
   # DATACOMP CLOUD - NAJWAZNIEJSZE USLUGI
